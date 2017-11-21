@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    ~ IcebergTurk ~
+                    ~~ IcebergTurk ~~
                 </div>
 
                 <div class="links">
